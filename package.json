@@ -59,7 +59,14 @@
 	"dependencies": {
 		"flowbite-svelte": "^0.44.24",
 		"flowbite-svelte-icons": "^1.6.1",
-		"tailwind-merge": "^2.3.0"
+		"tailwind-merge": "^2.3.0",
+		"@sveltejs/adapter-vercel": "^5.2.0",
+		"@vercel/analytics": "^1.3.1",
+		"@vercel/postgres": "^0.4.1",
+		"buffer": "^6.0.3",
+		"dotenv": "^16.3.1",
+		"node-cache": "^5.1.2",
+		"process": "^0.11.10"
 	},
 	"keywords": [
 		"svelte",
